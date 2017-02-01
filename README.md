@@ -30,3 +30,23 @@ In the example above, Wordfish will obtain the unique identifiers for objects (e
 
 ### Images and Text
 Image unique identifiers are stored on the level of `image*`, and text unique identifiers on the level of `text*` If an image and text correspond to the same occurrence, they should be named equivalently (with different extension). For each image and text, the same rule applies with regard to metadata - a json file is allowed with the corresponding name that must be valid json. 
+
+
+# Examples
+
+Here is a small working example, for a set of mammography images. In this case, the user has chosen to keep metadata about the images with the id, specifically the modality and orientation (left/right):
+
+```bash
+tree -R data/
+data/
+├── 1303348158021579
+│   └── images
+│       ├── 1303348158021579_CC_R.dcm
+│       └── 1303348158021579_MLO_R.dcm
+└── 3921125518197313
+    └── images
+        ├── 3921125518197313_CC_L.dcm
+        ├── 3921125518197313_CC_R.dcm
+        ├── 3921125518197313_MLO_L.dcm
+        └── 3921125518197313_MLO_R.dcm
+```
