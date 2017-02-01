@@ -7,7 +7,7 @@ Mammography dicom images with annotation document. Each example is uniquely iden
 
 The folder [data](data) is expected to be compressed into a `.zip` or `.tar.gz`, as in [data.tar.gz](data.tar.gz). The name of this folder does not matter, but rather the contents inside. Any json file in the top level of the folder, named equivalently as the folder, is treated as custom metadata for the collection, and must be valid json. Specifically, any zipped up object corresponds to the level of a "collection" in the WordFish database, which can include images and/or text. 
 
-
+```bash
   data/   
       data.json
       entity1/
@@ -24,7 +24,7 @@ The folder [data](data) is expected to be compressed into a `.zip` or `.tar.gz`,
                  text2.json
                  text2.txt              
           entity2.json
-
+```
 
 ## Folder Hierarchy
 In the example above, Wordfish will obtain the unique identifiers for objects (entities) from the folders on the level of `entity`. Within each entity, it is required to have a folder called `images` and a folder called `text`, and all custom metadata about the entity must be in json file named with the equivalent entity identifier. The user has total freedom to specify what data goes in the custom metadata file, however it must be valid json.
