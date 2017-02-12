@@ -2,8 +2,8 @@
 
 This is an example data set for the [wordfish](http://www.github.com/radinformatics/wordfish) image and text annotation and markup application. For details about the database and API, please refer to that format. Details about the flat file structure are also included below, specifically to describe the data in this example.
 
+The folder [cookies](demo/cookies) is an example of a collection, meaning a set of entities with images and text. It can be used as a folder, or compressed into a `.zip` or `.tar.gz`, as in `cookies.tar.gz`. The name of this folder does not matter, but rather the contents inside. Any json file in the top level of the folder, named equivalently as the folder, is treated as custom metadata for the collection, and must be valid json. Specifically, any zipped up object corresponds to the level of a "collection" in the WordFish database, which can include images and/or text. For a quick demo of what a collection looks like, see [DEMO](https://radinformatics.github.io/wordfish-standard/demo/)
 
-The folder [data](data) is expected to be compressed into a `.zip` or `.tar.gz`, as in [data.tar.gz](data.tar.gz). The name of this folder does not matter, but rather the contents inside. Any json file in the top level of the folder, named equivalently as the folder, is treated as custom metadata for the collection, and must be valid json. Specifically, any zipped up object corresponds to the level of a "collection" in the WordFish database, which can include images and/or text. 
 
 ```bash
   data/   
