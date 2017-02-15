@@ -2,7 +2,18 @@
 
 This is an example data set for the [wordfish](http://www.github.com/radinformatics/wordfish) image and text annotation and markup application. For details about the database and API, please refer to that format. Details about the flat file structure are also included below, specifically to describe the data in this example.
 
-The folder [cookies](demo/cookies) is an example of a collection, meaning a set of entities with images and text. It can be used as a folder, or compressed into a `.zip` or `.tar.gz`, as in `cookies.tar.gz`. The name of this folder does not matter, but rather the contents inside. Any json file in the top level of the folder, named equivalently as the folder, is treated as custom metadata for the collection, and must be valid json. Specifically, any zipped up object corresponds to the level of a "collection" in the WordFish database, which can include images and/or text. For a quick demo of what a collection looks like, see [DEMO](https://radinformatics.github.io/wordfish-standard/demo/)
+
+## Machine Learning with Cookie Tumors
+
+### Candy Tumors: The Training Set
+The folder [cookies](demo/cookies) is an example of a collection, meaning a set of entities with images and text. In this case, this is our training set, so you will find candy "tumors" that are commonly found in cookies, and they include features like size and color, along with class labels. You might be interested in training a classifier to predict the tumor class based on the image features provided, or features extracted on your own using the provided overlay masks. 
+
+### Cookie Patients: The Testing Set
+If you look in [examples](examples) you will find the [cookie-tumor](https://radinformatics.github.io/wordfish-standard/examples/) dataset, and this is the testing set. Here we have our poor cookie patients, each riddled with cookie tumors, and they badly need a diagnosis! Can you use your classifier to diagnose them?
+
+
+## The WordFish Standard:
+It can be used as a folder, or compressed into a `.zip` or `.tar.gz`, as in `cookies.tar.gz`. The name of this folder does not matter, but rather the contents inside. Any json file in the top level of the folder, named equivalently as the folder, is treated as custom metadata for the collection, and must be valid json. Specifically, any zipped up object corresponds to the level of a "collection" in the WordFish database, which can include images and/or text. For a quick demo of what a collection looks like, see [DEMO](https://radinformatics.github.io/wordfish-standard/demo/)
 
 
 ```bash
