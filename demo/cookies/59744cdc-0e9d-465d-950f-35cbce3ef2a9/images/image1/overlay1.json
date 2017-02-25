@@ -1,0 +1,51 @@
+[
+    {
+        "value": "59744cdc-0e9d-465d-950f-35cbce3ef2a9",
+        "key": "id"
+    },
+    {
+        "value": "peacup_tumor",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "count",
+                    "key": "name"
+                },
+                {
+                    "value": "numeric",
+                    "key": "type"
+                },
+                {
+                    "value": "2",
+                    "key": "value"
+                },
+                {
+                    "value": "counts",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "count",
+                    "key": "name"
+                },
+                {
+                    "value": "numeric",
+                    "key": "type"
+                },
+                {
+                    "value": "2",
+                    "key": "value"
+                },
+                {
+                    "value": "counts",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

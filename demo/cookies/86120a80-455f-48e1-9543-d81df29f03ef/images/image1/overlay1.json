@@ -1,0 +1,69 @@
+[
+    {
+        "value": "86120a80-455f-48e1-9543-d81df29f03ef",
+        "key": "id"
+    },
+    {
+        "value": "chunks_tumor.2",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_texture",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "rough",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_texture",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "rough",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_texture",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "rough",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

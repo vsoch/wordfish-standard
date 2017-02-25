@@ -1,0 +1,87 @@
+[
+    {
+        "value": "ab0e5cc6-6041-4f96-8bf3-4d45124da8f3",
+        "key": "id"
+    },
+    {
+        "value": "peanuteminem_tumor.1",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "shell_type",
+                    "key": "name"
+                },
+                {
+                    "value": "string",
+                    "key": "type"
+                },
+                {
+                    "value": "sugar",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "shell_type",
+                    "key": "name"
+                },
+                {
+                    "value": "string",
+                    "key": "type"
+                },
+                {
+                    "value": "sugar",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "shell_type",
+                    "key": "name"
+                },
+                {
+                    "value": "string",
+                    "key": "type"
+                },
+                {
+                    "value": "sugar",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "shell_type",
+                    "key": "name"
+                },
+                {
+                    "value": "string",
+                    "key": "type"
+                },
+                {
+                    "value": "sugar",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

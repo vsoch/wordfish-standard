@@ -1,0 +1,33 @@
+[
+    {
+        "value": "1fb162c5-b465-42d9-a135-9d190d159dfe",
+        "key": "id"
+    },
+    {
+        "value": "eminem_tumor.4",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_shell",
+                    "key": "name"
+                },
+                {
+                    "value": "boolean",
+                    "key": "type"
+                },
+                {
+                    "value": "false",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

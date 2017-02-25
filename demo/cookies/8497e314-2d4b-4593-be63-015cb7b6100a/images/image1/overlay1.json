@@ -1,0 +1,195 @@
+[
+    {
+        "value": "8497e314-2d4b-4593-be63-015cb7b6100a",
+        "key": "id"
+    },
+    {
+        "value": "eminem_tumor.1",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "chocolate-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "chocolate-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "chocolate-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "chocolate-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "chocolate-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "chocolate-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "chocolate-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "chocolate-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "chocolate-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "chocolate-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "value": "282b59a8-95c0-449e-91eb-ae13f1ba6a48",
+        "key": "id"
+    },
+    {
+        "value": "peacup_tumor",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_shell",
+                    "key": "name"
+                },
+                {
+                    "value": "boolean",
+                    "key": "type"
+                },
+                {
+                    "value": "false",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

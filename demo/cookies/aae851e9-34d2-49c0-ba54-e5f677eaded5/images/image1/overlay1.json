@@ -1,0 +1,33 @@
+[
+    {
+        "value": "aae851e9-34d2-49c0-ba54-e5f677eaded5",
+        "key": "id"
+    },
+    {
+        "value": "corn_tumor.1",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_shell",
+                    "key": "name"
+                },
+                {
+                    "value": "boolean",
+                    "key": "type"
+                },
+                {
+                    "value": "false",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

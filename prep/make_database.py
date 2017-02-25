@@ -102,17 +102,18 @@ for cookie in cookies:
     if not os.path.exists(cookie_dir):
         os.mkdir(cookie_dir)
         os.mkdir("%s/images" %(cookie_dir))
-    shutil.copyfile(cookie,"%s/image1.png" %(cookie_images))
+        os.mkdir("%s/images/image1" %(cookie_dir))
+    shutil.copyfile(cookie,"%s/image1/image1.png" %(cookie_images))
 
     # Is there a matching overlay (mask?)
     cookie_overlay = "%s/matched/mask/%s" %(pwd,cookie_image)
     if os.path.exists(cookie_overlay):
-        shutil.copyfile(cookie_overlay,"%s/overlay1.png" %(cookie_images))
+        shutil.copyfile(cookie_overlay,"%s/image1/overlay1.png" %(cookie_images))
 
     # Is there metadata?
     cookie_xml = "%s/matched/%s.xml" %(pwd,cookie_id)
     if os.path.exists(cookie_xml):
         cookie_metadata = parse_xml(cookie_xml)
-        write_json(cookie_metadata,"%s/overlay1.json" %(cookie_images))
+        write_json(cookie_metadata,"%s/image1/overlay1.json" %(cookie_images))
 
 

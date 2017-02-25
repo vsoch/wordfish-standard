@@ -73,6 +73,9 @@ for c in range(len(cookies)):
     images = glob("%s/*.jpg" %(cookie_path))
     for i in range(len(images)):
         image = images[i]
-        shutil.copyfile(image,"%s/image%s.jpg" %(cookie_images,i+1))
+        image_folder = "%s/image%s" %(cookie_images,i+1)
+        if not os.path.exists(image_folder):
+            os.mkdir(image_folder)
+        shutil.copyfile(image,"%s/image%s.jpg" %(image_folder,i+1))
         cookie_metadata = parse_metadata(image,cookie_id)
-        write_json(cookie_metadata,"%s/image%s.json" %(cookie_images,i+1))
+        write_json(cookie_metadata,"%s/image%s.json" %(image_folder,i+1))

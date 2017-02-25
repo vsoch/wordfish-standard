@@ -1,0 +1,69 @@
+[
+    {
+        "value": "8645369475_5d302b2a3a",
+        "key": "id"
+    },
+    {
+        "value": "peacup_tumor",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_texture",
+                    "key": "name"
+                },
+                {
+                    "value": "string",
+                    "key": "type"
+                },
+                {
+                    "value": "rough",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_texture",
+                    "key": "name"
+                },
+                {
+                    "value": "string",
+                    "key": "type"
+                },
+                {
+                    "value": "rough",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_texture",
+                    "key": "name"
+                },
+                {
+                    "value": "string",
+                    "key": "type"
+                },
+                {
+                    "value": "rough",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

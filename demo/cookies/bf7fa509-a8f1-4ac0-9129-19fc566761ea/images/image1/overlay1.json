@@ -1,0 +1,29 @@
+[
+    {
+        "value": "bf7fa509-a8f1-4ac0-9129-19fc566761ea",
+        "key": "id"
+    },
+    {
+        "value": "chunks_tumor.1",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "computational",
+                    "key": "type"
+                },
+                {
+                    "value": "1",
+                    "key": "value"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "value": "3696ef72-5cc2-4a66-a25a-60129b0fa526",
+        "key": "id"
+    },
+    {
+        "value": "peacup_tumor",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "nut-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "nut-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "nut-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

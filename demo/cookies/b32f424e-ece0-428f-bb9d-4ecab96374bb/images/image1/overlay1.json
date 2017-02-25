@@ -1,0 +1,33 @@
+[
+    {
+        "value": "b32f424e-ece0-428f-bb9d-4ecab96374bb",
+        "key": "id"
+    },
+    {
+        "value": "emimen_tumor.3",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_shell",
+                    "key": "name"
+                },
+                {
+                    "value": "boolean",
+                    "key": "type"
+                },
+                {
+                    "value": "false",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

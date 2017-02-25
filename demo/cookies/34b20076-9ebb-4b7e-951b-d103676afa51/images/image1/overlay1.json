@@ -1,0 +1,141 @@
+[
+    {
+        "value": "34b20076-9ebb-4b7e-951b-d103676afa51",
+        "key": "id"
+    },
+    {
+        "value": "chunks_tumor.2",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "fruit-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "fruit-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "fruit-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "fruit-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "fruit-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "fruit-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ],
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "fruit-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

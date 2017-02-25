@@ -1,0 +1,33 @@
+[
+    {
+        "value": "bfc1b84c-ca0a-4aaf-8699-08218dda13e0",
+        "key": "id"
+    },
+    {
+        "value": "peacup_tumor",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "flavor",
+                    "key": "name"
+                },
+                {
+                    "value": "semantic",
+                    "key": "type"
+                },
+                {
+                    "value": "nut-based",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

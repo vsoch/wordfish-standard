@@ -1,0 +1,33 @@
+[
+    {
+        "value": "727ec4fb-83e7-4774-8c16-0d4c599f3cfe",
+        "key": "id"
+    },
+    {
+        "value": "dripi_tumor",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_shell",
+                    "key": "name"
+                },
+                {
+                    "value": "boolean",
+                    "key": "type"
+                },
+                {
+                    "value": "false",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

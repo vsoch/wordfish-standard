@@ -1,0 +1,85 @@
+[
+    {
+        "value": "051d51a5-6652-4983-aeb3-1c58fc57f0dc",
+        "key": "id"
+    },
+    {
+        "value": "peanuteminem_tumor.6",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "computational",
+                    "key": "type"
+                },
+                {
+                    "value": "0.19113",
+                    "key": "value"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "computational",
+                    "key": "type"
+                },
+                {
+                    "value": "0.20412",
+                    "key": "value"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "computational",
+                    "key": "type"
+                },
+                {
+                    "value": "0.22572",
+                    "key": "value"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "computational",
+                    "key": "type"
+                },
+                {
+                    "value": "0.19881",
+                    "key": "value"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "computational",
+                    "key": "type"
+                },
+                {
+                    "value": "0.18023",
+                    "key": "value"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

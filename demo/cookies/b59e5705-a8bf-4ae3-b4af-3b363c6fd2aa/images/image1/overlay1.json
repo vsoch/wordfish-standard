@@ -1,0 +1,33 @@
+[
+    {
+        "value": "b59e5705-a8bf-4ae3-b4af-3b363c6fd2aa",
+        "key": "id"
+    },
+    {
+        "value": "pretzeminem_tumor.6",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_shell",
+                    "key": "name"
+                },
+                {
+                    "value": "boolean",
+                    "key": "type"
+                },
+                {
+                    "value": "false",
+                    "key": "value"
+                },
+                {
+                    "value": "",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

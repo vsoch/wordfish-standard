@@ -30,7 +30,6 @@ Try making the images black and white first (to mimic a radiograph) and try the 
 Train a classifier to group the images based on the "patient," or images of the same cookie.
 
 
-
 For all of the above, your accuracy will be assessed also based on the difficulty of the image.
 
 More to come!

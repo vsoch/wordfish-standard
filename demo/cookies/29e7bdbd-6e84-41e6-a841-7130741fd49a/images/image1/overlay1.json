@@ -1,0 +1,141 @@
+[
+    {
+        "value": "29e7bdbd-6e84-41e6-a841-7130741fd49a",
+        "key": "id"
+    },
+    {
+        "value": "chunks_tumor.1",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "computational",
+                    "key": "type"
+                },
+                {
+                    "value": "0.12333",
+                    "key": "value"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "computational",
+                    "key": "type"
+                },
+                {
+                    "value": "0.12014",
+                    "key": "value"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "computational",
+                    "key": "type"
+                },
+                {
+                    "value": "0.19153",
+                    "key": "value"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "computational",
+                    "key": "type"
+                },
+                {
+                    "value": "0.11295",
+                    "key": "value"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "computational",
+                    "key": "type"
+                },
+                {
+                    "value": "1.1599e-006",
+                    "key": "value"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "computational",
+                    "key": "type"
+                },
+                {
+                    "value": "0.10009",
+                    "key": "value"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "computational",
+                    "key": "type"
+                },
+                {
+                    "value": "0.12554",
+                    "key": "value"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "computational",
+                    "key": "type"
+                },
+                {
+                    "value": "0.11657",
+                    "key": "value"
+                }
+            ],
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "computational",
+                    "key": "type"
+                },
+                {
+                    "value": "0.10985",
+                    "key": "value"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

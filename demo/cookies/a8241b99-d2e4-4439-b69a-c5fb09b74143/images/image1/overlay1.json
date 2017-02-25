@@ -1,0 +1,33 @@
+[
+    {
+        "value": "a8241b99-d2e4-4439-b69a-c5fb09b74143",
+        "key": "id"
+    },
+    {
+        "value": "peanuteminem_tumor.6",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "numeric",
+                    "key": "type"
+                },
+                {
+                    "value": "0.76306",
+                    "key": "value"
+                },
+                {
+                    "value": "pixels",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

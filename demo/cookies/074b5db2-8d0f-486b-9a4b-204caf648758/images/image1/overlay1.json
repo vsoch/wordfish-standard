@@ -1,0 +1,29 @@
+[
+    {
+        "value": "074b5db2-8d0f-486b-9a4b-204caf648758",
+        "key": "id"
+    },
+    {
+        "value": "chunks_tumor.1",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_count",
+                    "key": "name"
+                },
+                {
+                    "value": "numeric",
+                    "key": "type"
+                },
+                {
+                    "value": "0.90909",
+                    "key": "value"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

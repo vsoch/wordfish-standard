@@ -1,0 +1,29 @@
+[
+    {
+        "value": "442ad5ec-a615-4bdc-9ec5-6b7909f9ed65",
+        "key": "id"
+    },
+    {
+        "value": "peacup_tumor",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_count",
+                    "key": "name"
+                },
+                {
+                    "value": "numeric",
+                    "key": "type"
+                },
+                {
+                    "value": "0.2",
+                    "key": "value"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

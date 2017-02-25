@@ -1,0 +1,29 @@
+[
+    {
+        "value": "68bd66d5-9390-4259-8cb7-2cb3d01c9b9a",
+        "key": "id"
+    },
+    {
+        "value": "peanuteminem_tumor.4",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_count",
+                    "key": "name"
+                },
+                {
+                    "value": "numeric",
+                    "key": "type"
+                },
+                {
+                    "value": "0.33333",
+                    "key": "value"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]

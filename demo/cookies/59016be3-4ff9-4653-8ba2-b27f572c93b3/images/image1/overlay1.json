@@ -1,0 +1,33 @@
+[
+    {
+        "value": "59016be3-4ff9-4653-8ba2-b27f572c93b3",
+        "key": "id"
+    },
+    {
+        "value": "eminem_tumor.4",
+        "key": "rx"
+    },
+    {
+        "value": [
+            [
+                {
+                    "value": "candy_tumor_area",
+                    "key": "name"
+                },
+                {
+                    "value": "numeric",
+                    "key": "type"
+                },
+                {
+                    "value": "1",
+                    "key": "value"
+                },
+                {
+                    "value": "pixels",
+                    "key": "units"
+                }
+            ]
+        ],
+        "key": "features"
+    }
+]
