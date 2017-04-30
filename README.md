@@ -6,10 +6,10 @@ This is a simple standard that describes an organization of images and text, int
 ## Machine Learning with Cookie Tumors
 
 ### Candy Tumors: The Training Set
-The folder [cookies](examples/demo1) is an example of a collection, meaning a set of entities with images and text. In this case, this is our training set, so you will find candy "tumors" that are commonly found in cookies, and they include features like size and color, along with class labels. You might be interested in training a classifier to predict the tumor class based on the image features provided, or features extracted on your own using the provided overlay masks. 
+In the folder [cookies](examples/demo1) you will find the [cookies](http://www.vanessasaur.us/wordfish-standard/examples/demo1/) dataset. This is an example of a collection, meaning a set of entities with images and text. In this case, this is our training set, so you will find candy "tumors" that are commonly found in cookies, and they include features like size and color, along with class labels. You might be interested in training a classifier to predict the tumor class based on the image features provided, or features extracted on your own using the provided overlay masks. 
 
 ### Cookie Patients: The Testing Set
-If you look in [examples](examples) you will find the [cookie-tumor](examples/demo2) dataset, and this is the testing set. Here we have our poor cookie patients, each riddled with cookie tumors, and they badly need a diagnosis! Can you use your classifier to diagnose them?
+If you look in [examples](examples) you will find the [cookie-tumor](http://www.vanessasaur.us/wordfish-standard/examples/demo2/) dataset, and this is the testing set. Here we have our poor cookie patients, each riddled with cookie tumors, and they badly need a diagnosis! Can you use your classifier to diagnose them?
 
 
 ### Medical Images
